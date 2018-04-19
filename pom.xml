@@ -4,7 +4,6 @@
 
 	<groupId>com.example.jgitflow</groupId>
 	<artifactId>example-jgitflow</artifactId>
-
 	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
