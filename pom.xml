@@ -85,6 +85,10 @@
 						<versionTagPrefix />
 					</flowInitContext>
 					<useReleaseProfile>false</useReleaseProfile>
+					<username>luizHenri</username>
+            		<password>d597f1870ee40002b786db4ade8fcadd8f5e5404</password>
+            		<noDeploy>true</noDeploy>
+            		<squash>true</squash>
 				</configuration>
 			</plugin>
 		</plugins>
