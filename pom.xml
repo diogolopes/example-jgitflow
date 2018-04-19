@@ -4,11 +4,7 @@
 
 	<groupId>com.example.jgitflow</groupId>
 	<artifactId>example-jgitflow</artifactId>
-<<<<<<< HEAD
-	<version>0.0.2</version>
-=======
 	<version>0.0.3</version>
->>>>>>> refs/heads/release/0.0.3
 	<packaging>jar</packaging>
 
 	<name>example-jegitflow</name>
