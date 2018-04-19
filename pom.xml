@@ -87,6 +87,7 @@
             		<password>e3fdbf1bee806842b7872d2cb22d007a1dd90d70</password>
             		<noDeploy>true</noDeploy>
             		<squash>true</squash>
+            		<pushReleases>true</pushReleases>
 				</configuration>
 			</plugin>
 		</plugins>
