@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.jgitflow</groupId>
 	<artifactId>example-jgitflow</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>example-jegitflow</name>
@@ -85,6 +83,10 @@
 						<versionTagPrefix />
 					</flowInitContext>
 					<useReleaseProfile>false</useReleaseProfile>
+					<username>luizHenri</username>
+            		<password>d597f1870ee40002b786db4ade8fcadd8f5e5404</password>
+            		<noDeploy>true</noDeploy>
+            		<squash>true</squash>
 				</configuration>
 			</plugin>
 		</plugins>
