@@ -4,7 +4,8 @@
 
 	<groupId>com.example.jgitflow</groupId>
 	<artifactId>example-jgitflow</artifactId>
-	<version>0.0.1</version>
+
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>example-jegitflow</name>
@@ -84,9 +85,10 @@
 					</flowInitContext>
 					<useReleaseProfile>false</useReleaseProfile>
 					<username>luizHenri</username>
-            		<password>d597f1870ee40002b786db4ade8fcadd8f5e5404</password>
+            		<password>sofega3758L</password>
             		<noDeploy>true</noDeploy>
             		<squash>true</squash>
+            		<pushReleases>true</pushReleases>
 				</configuration>
 			</plugin>
 		</plugins>
