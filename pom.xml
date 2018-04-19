@@ -83,8 +83,8 @@
 						<versionTagPrefix />
 					</flowInitContext>
 					<useReleaseProfile>false</useReleaseProfile>
-					<username>luizHenri</username>
-            		<password>sofega3758L</password>
+					<username>${gitHubUsername}</username>
+            		<password>${gitHubPassword}</password>
             		<noDeploy>true</noDeploy>
             		<squash>true</squash>
             		<pushReleases>true</pushReleases>
